@@ -23,6 +23,6 @@ concurrency:
 
 jobs:
   entitlement-contract:
-    uses: stromy-org/plugin-contract-check/.github/workflows/entitlement-contract.yml@8f464d292510ddf59fb6820674d0c20365b57b1e
+    uses: stromy-org/plugin-contract-check/.github/workflows/entitlement-contract.yml@b37ebd4e476471f09048f2337d15aa4ea39f943d
     with:
-      verifier_sha: 8f464d292510ddf59fb6820674d0c20365b57b1e
+      verifier_sha: b37ebd4e476471f09048f2337d15aa4ea39f943d
